@@ -31,6 +31,8 @@
    ![ss2](https://github.com/Rahul02M/react-E-commerce/assets/133855195/fccd5356-e108-44ea-9c9f-bc2605956221)
 
    ![ss3](https://github.com/Rahul02M/react-E-commerce/assets/133855195/598c3077-f912-4ab1-8ab3-c6d00238fa75)
-
-   ![ss4](https://github.com/Rahul02M/react-E-commerce/assets/133855195/c05ed99f-1c3a-4ff9-94a2-2c406c0fe1a3)
+   
+   ![ss4](https://github.com/Rahul02M/react-E-commerce/assets/133855195/c05ed99f-1c3a-4ff9-94a2-2c406c0fe1a3)   ![ss5](https://github.com/Rahul02M/react-E-commerce/assets/133855195/afd202fb-3f6d-4229-a438-b2517561faf7)
+   
+ 
 
